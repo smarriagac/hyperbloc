@@ -18,6 +18,11 @@ body
     font-weight: bold;
     padding: 0.5em;
 }
+#cabecera #logo 
+{
+    width: 20px;
+    vertical-align: middle;
+}
 
 #cabecera #tagline 
 {
@@ -39,16 +44,8 @@ body
     font-size: 20px;
 }
 
-#post 
+#post
 {
+    background: white;
     padding: 1em;
-
-}
-
-#footer 
-{
-    background: #777;
-    color: white;
-    text-align: center;
-    padding: 0.5em;
 }
