@@ -5,3 +5,4 @@ salario y lanzarme a la industria del tejido de lana sintetica con machine Learn
 > - ninita
 
 En este curso vemo de todo: 
+te amo yuli
