@@ -4,11 +4,4 @@ Un super blog creado para el estudio de platzi
 salario y lanzarme a la industria del tejido de lana sintetica con machine Learning
 > - ninita
 
-En este curso vemo de todo: 
-<<<<<<< HEAD
-te amo yuli
-=======
-te amo yuli bbee
-ickuye examoke kinux y nmag
-disponible para todas las edades
->>>>>>> mejoras
+
